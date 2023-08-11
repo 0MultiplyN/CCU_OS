@@ -3,3 +3,4 @@
 ## Folder
 - HWA : Calculating pi using pthread.
 - HWB : Measuring the overhead of context switch.
+- HWC : Writing a program to wait for CPU cooling to measure system information.
